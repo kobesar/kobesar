@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 
 - 📊 Data Scientist | B.Sc. in Stats: Data Science | Solid academic foundation.
 - 💼 Revenue Analyst | Seattle Mariners | ML & CRM clarity expert.
